@@ -1,2 +1,4 @@
 # openSurvivors
-🧎‍♂️pray 2 rng 🧎‍♂️
+
+😎😎😎😎😎
+hello world commit
