@@ -22,6 +22,8 @@ https://www.reddit.com/r/godot/comments/cfm72e/psa_you_can_use_godot_c_in_steam_
 
 See guide et kergelt lisada capability et c# kasutada.
 
+!!dotnet SDK 6.0 on ka vajalik kahjuks!!
+
 <h1> Guide </h1>
 
 Teen varsti mingi task list type asja kust peaks kergemalt saama taske. Aga prgult wild west go crazy.
