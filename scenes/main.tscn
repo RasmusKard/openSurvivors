@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://vw2krp4kffcb"]
+
+[ext_resource type="PackedScene" uid="uid://daxkw1wma5q6n" path="res://assets/player/playerScene.tscn" id="1_rjq1b"]
+[ext_resource type="Texture2D" uid="uid://bsgt60b8on4ok" path="res://icon.svg" id="2_xn1dp"]
+
+[node name="main" type="Node2D"]
+
+[node name="player" parent="." instance=ExtResource("1_rjq1b")]
+
+[node name="Camera2D" type="Camera2D" parent="player"]
+
+[node name="center" type="Sprite2D" parent="."]
+modulate = Color(0, 0, 0, 1)
+position = Vector2(260, 2)
+texture = ExtResource("2_xn1dp")
