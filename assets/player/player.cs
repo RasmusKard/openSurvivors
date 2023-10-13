@@ -9,7 +9,7 @@ public partial class player : CharacterBody2D
 
 	public void GetInput()
 	{
-		Vector2 inputDirection = Input.GetVector("left", "right", "up", "down");
+		Vector2 inputDirection = Input.GetVector("right", "left", "down", "up");
 		Velocity = inputDirection * Speed ;
 	}
 
